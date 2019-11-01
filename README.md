@@ -64,4 +64,4 @@ Implement the function `signin` in `server/users/userHandler.js`. The function w
 
 ## Final words!
 
-Now you have completed a basic full stack web application. Think about additional ideas to improve this application-like css, cryptography based user authentication etc. Have fun!
+Now you have completed a basic full stack web application. Think about additional ideas to improve this application-like css, cryptography based user authentication, use templates(EJS, Mostache) etc. Have fun!
